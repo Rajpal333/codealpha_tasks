@@ -80,12 +80,8 @@ CodeAlpha_AgeCalculator
 Add your project screenshot here after uploading it to GitHub.
 
 Example:
-
-![Age Calculator Screenshot](Screenshot 2026-06-25 191125.png)
-![Age Calculator Screenshot](Screenshot 2026-06-25 191125.png)
-## 📸 Project Screenshot
-
 ![Age Calculator Screenshot](screenshot.png)
+![Age Calculator Screenshot](screenshot2.png)
 
 ---
 
